@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b4yaw
 - 👀 I’m interested in developing and creating stuff
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate with HP
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
